@@ -1,1 +1,3 @@
-# huso_turkish_channels_erdo
+# huso_french channels backup
+
+huso french channels github. whenever someone need I can push it. 
